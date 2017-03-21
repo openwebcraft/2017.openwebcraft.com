@@ -39,7 +39,7 @@
       "links": [
         {
           "href": "https://github.com/openwebcraft/2017.openwebcraft.com",
-          "text": "GitHub"
+          "text": "2017.openwebcraft"
         }
       ]
     },
@@ -72,10 +72,10 @@
       "links": [
         {
           "href": "https://github.com/openwebcraft/2017.openwebcraft.com",
-          "text": "GitHub"
+          "text": "2017.openwebcraft"
         },
         {
-          "href": "https://github.com/openwebcraft",
+          "href": "https://openwebcraft.com",
           "text": "openwebcraft"
         }
       ]
